@@ -5,6 +5,10 @@ A simple chat demo for socket.io
 
 ## How to use
 
+1.  Need Git - http://git-scm.com/download/mac
+2.  Need Node.js - https://nodejs.org/en/download/
+3.  git clone https://github.com/Nickysix6/socket.io
+
 ```
 $ cd socket.io
 $ npm install
